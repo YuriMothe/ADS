@@ -1,3 +1,2 @@
 # O Maltês
-[https://github.com/YuriMothe/ADS.git
-](https://github.com/YuriMothe/ADS/)
+https://github.com/YuriMothe/ADS/
