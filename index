@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>O Maltês</title>
+</head>
+
+<body style="text-align: center; margin: 80px 200px;">
+    <h1 style="color: chocolate; font-size: 100px;">Onça Pintada</h1>
+    <img width="400px"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1AKC_Maltese_Dog_Show_2011.jpg/220px-1AKC_Maltese_Dog_Show_2011.jpg"
+        alt="Maltes">
+    <p style="margin: 50px;">
+        O Maltês é uma raça de cães pequenos conhecida por sua pelagem longa, sedosa e branca, além de sua aparência elegante e graciosa. Aqui está uma descrição mais detalhada:
+
+Aparência:
+
+Tamanho pequeno: Geralmente pesam entre 3 a 4 quilos quando adultos, com uma altura média de 20 a 25 centímetros na cernelha.
+Estrutura compacta: Corpo proporcionado, com membros proporcionais e uma cauda com plumagem abundante que se curva elegantemente sobre o dorso.
+Pelagem: Uma das características mais distintivas é a sua pelagem longa, lisa e sedosa, que é completamente branca. Não tem subpelo.
+Cabeça: Crânio ligeiramente arredondado, com olhos escuros e redondos, orelhas pendentes e expressão alerta e inteligente.
+Personalidade:
+
+Afetuoso: Os Maltês são conhecidos por serem cães muito afetuosos e dedicados aos seus donos.
+Alerta: Apesar do seu tamanho pequeno, são cães alertas e atentos ao ambiente ao seu redor, o que os torna bons cães de alerta.
+Inteligente: São cães inteligentes e geralmente respondem bem ao treinamento, especialmente quando incentivados com reforço positivo.
+Sociável: Costumam se dar bem com outras pessoas e animais de estimação, desde que sejam socializados desde filhotes.
+Cuidados:
+
+Pelagem: Requer cuidados regulares com a pelagem para mantê-la limpa, livre de nós e em boa condição.
+Exercício: Apesar de serem pequenos, ainda precisam de exercícios diários moderados para manterem-se saudáveis e felizes.
+Socialização: Como com qualquer raça, a socialização desde filhote é importante para garantir que cresçam bem ajustados e amigáveis.
+Os Maltês são cães encantadores que se adaptam bem a vários estilos de vida, desde famílias ativas a donos mais sedentários, desde que recebam amor, cuidados e atenção adequados.
+
+
+
+
+
+
+
+    </p> 
+    <a href="https://pt.wikipedia.org/wiki/Panthera_onca" target="_blank">Wikipedia</a>
+</body>
+
+</html>
